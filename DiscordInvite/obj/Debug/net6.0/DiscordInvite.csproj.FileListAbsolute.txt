@@ -1,0 +1,13 @@
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\bin\Debug\net6.0\HttpServer.dll
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\bin\Debug\net6.0\DiscordInvite.deps.json
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\bin\Debug\net6.0\DiscordInvite.dll
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\bin\Debug\net6.0\DiscordInvite.pdb
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.csproj.AssemblyReference.cache
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.AssemblyInfoInputs.cache
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.AssemblyInfo.cs
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.csproj.CoreCompileInputs.cache
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.dll
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\refint\DiscordInvite.dll
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\DiscordInvite.pdb
+C:\Users\zekeb\Desktop\ZekesPVP\DiscordInvite\DiscordInvite\obj\Debug\net6.0\ref\DiscordInvite.dll
